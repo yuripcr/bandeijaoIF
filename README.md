@@ -1,4 +1,4 @@
-# Problema 1: Pista Quente e Fria do bandejão do IF
+# Problema: Pista Quente e Fria do bandejão do IF
 
 ## Descrição do Problema
 
